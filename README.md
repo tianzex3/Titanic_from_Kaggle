@@ -37,8 +37,9 @@ __Advantages:__
 4. Probabilistic output: Logistic Regression provides a probability score for each data point, making it easier to rank the importance of individual predictors and to make predictions.
 
 # Final Result:
-Below shows the result on the given testing dataset, and a complete csv file is attached in the files above named "Titanic Results from Neal Xu"
+Below shows the predicted result on the given testing dataset, and a complete csv file is attached in the files above named "Titanic Results from Neal Xu"
 
 __1: Survived;__
 __0: Not Survived:__
+
 ![image](https://user-images.githubusercontent.com/90085137/218027519-9cb00e3b-5a2d-44d4-a748-09840b0b02b8.png)
