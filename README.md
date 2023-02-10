@@ -39,8 +39,8 @@ __Advantages:__
 # Final Result:
 Below shows the predicted result on the given testing dataset, and a complete csv file is attached in the files above named "Titanic Results from Neal Xu"
 
-__1: Survived;__
-
-__0: Not Survived:__
+__"1": Survived;__<br />
+__"0": Not Survived:__<br />
+__Survival Rate: 36.4%__
 
 ![image](https://user-images.githubusercontent.com/90085137/218027519-9cb00e3b-5a2d-44d4-a748-09840b0b02b8.png)
